@@ -3,8 +3,8 @@ import 'package:my_project/screen/splash_screen.dart';
 import 'package:my_project/screen/login_page.dart';
 import 'package:my_project/screen/signup_page.dart';
 import 'package:my_project/screen/home_page.dart';
-import 'services/supabase_client.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
+import 'services/supabase_client.dart';
 import 'package:onesignal_flutter/onesignal_flutter.dart';
 
 // Global navigator key (needed for navigation & snackbars)
