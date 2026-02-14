@@ -3,7 +3,7 @@
 
 An intelligent mobile application that leverages AI, OpenAI GPT models, and Firebase/Supabase to optimize urban traffic flow, enhance road safety, and promote eco-friendly mobility solutions.
 
-##📌 Problem Statement
+## 📌 Problem Statement
 
 Urban traffic congestion leads to:
 
@@ -19,7 +19,7 @@ Urban traffic congestion leads to:
 
 Millions of commuters and city authorities are affected daily.
 
-##💡 Our Solution
+## 💡 Our Solution
 
 A lightweight AI-powered mobile application that provides:
 
@@ -47,7 +47,7 @@ A lightweight AI-powered mobile application that provides:
 
 🛣 Personalized route recommendations
 
-##🏗 System Architecture
+## 🏗 System Architecture
 
 Frontend: Flutter (Android Studio)
 Backend: Firebase/Supabase (Firestore, Authentication, Cloud Functions, FCM)
@@ -67,7 +67,7 @@ REST APIs
 
 Google Maps Integration
 
-##🌱 Impact
+## 🌱 Impact
 
 ✅ Reduces congestion
 
@@ -79,7 +79,7 @@ Google Maps Integration
 
 ✅ Promotes eco-friendly urban mobility
 
-##🚀 Prototype Features
+## 🚀 Prototype Features
 
 Traffic prediction module
 
@@ -89,13 +89,13 @@ Eco-route suggestion engine
 
 Smart navigation interface
 
-##📦 Deployment
+## 📦 Deployment
 
 GitHub Repository
 
 APK Demo Version
 
-##🔮 Future Scope
+## 🔮 Future Scope
 
 Integration with city traffic databases
 
