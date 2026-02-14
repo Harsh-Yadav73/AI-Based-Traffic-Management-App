@@ -1,4 +1,4 @@
-🚦 AI-Powered Smart Traffic Management System
+# 🚦 AI-Powered Smart Traffic Management System
 Smart Mobility for Safer, Faster, and Greener Cities
 
 An intelligent mobile application that leverages AI, OpenAI GPT models, and Firebase to optimize urban traffic flow, enhance road safety, and promote eco-friendly mobility solutions.
