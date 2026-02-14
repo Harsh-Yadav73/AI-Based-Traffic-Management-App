@@ -105,7 +105,7 @@ Expansion to multiple smart cities
 
 AI-powered accident detection system
 
-##👩‍💻 Developed By
+## 👩‍💻 Developed By
 
 Harsh Yadav, Jigyasa Awasthi, Aditya Pal, Maneesh Rajput, Hitesh Bajpai
 AI & Flutter Developer | Smart Mobility Enthusiast
