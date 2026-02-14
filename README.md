@@ -1,9 +1,9 @@
 # 🚦 AI-Powered Smart Traffic Management System
-Smart Mobility for Safer, Faster, and Greener Cities
+#Smart Mobility for Safer, Faster, and Greener Cities
 
-An intelligent mobile application that leverages AI, OpenAI GPT models, and Firebase to optimize urban traffic flow, enhance road safety, and promote eco-friendly mobility solutions.
+An intelligent mobile application that leverages AI, OpenAI GPT models, and Firebase/Supabase to optimize urban traffic flow, enhance road safety, and promote eco-friendly mobility solutions.
 
-📌 Problem Statement
+#📌 Problem Statement
 
 Urban traffic congestion leads to:
 
@@ -19,7 +19,7 @@ Urban traffic congestion leads to:
 
 Millions of commuters and city authorities are affected daily.
 
-💡 Our Solution
+#💡 Our Solution
 
 A lightweight AI-powered mobile application that provides:
 
@@ -47,19 +47,19 @@ A lightweight AI-powered mobile application that provides:
 
 🛣 Personalized route recommendations
 
-🏗 System Architecture
+#🏗 System Architecture
 
 Frontend: Flutter (Android Studio)
-Backend: Firebase (Firestore, Authentication, Cloud Functions, FCM)
+Backend: Firebase/Supabase (Firestore, Authentication, Cloud Functions, FCM)
 AI Layer: OpenAI API (GPT Models)
 
-User App → Firebase → OpenAI API → Smart Predictions → Alerts & Routes
+User App → Firebase/Supabase → OpenAI API → Smart Predictions → Alerts & Routes
 
-🛠 Tech Stack
+#🛠 Tech Stack
 
 Flutter & Dart
 
-Firebase (Firestore, Auth, Cloud Functions, FCM)
+Firebase/Supabase (Firestore, Auth, Cloud Functions, FCM)
 
 OpenAI API
 
@@ -67,7 +67,7 @@ REST APIs
 
 Google Maps Integration
 
-🌱 Impact
+#🌱 Impact
 
 ✅ Reduces congestion
 
@@ -79,7 +79,7 @@ Google Maps Integration
 
 ✅ Promotes eco-friendly urban mobility
 
-🚀 Prototype Features
+#🚀 Prototype Features
 
 Traffic prediction module
 
@@ -89,13 +89,13 @@ Eco-route suggestion engine
 
 Smart navigation interface
 
-📦 Deployment
+#📦 Deployment
 
 GitHub Repository
 
 APK Demo Version
 
-🔮 Future Scope
+#🔮 Future Scope
 
 Integration with city traffic databases
 
@@ -105,7 +105,7 @@ Expansion to multiple smart cities
 
 AI-powered accident detection system
 
-👩‍💻 Developed By
+#👩‍💻 Developed By
 
 Harsh Yadav, Jigyasa Awasthi, Aditya Pal, Maneesh Rajput, Hitesh Bajpai
 AI & Flutter Developer | Smart Mobility Enthusiast
