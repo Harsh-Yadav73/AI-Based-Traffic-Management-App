@@ -55,7 +55,7 @@ AI Layer: OpenAI API (GPT Models)
 
 User App → Firebase/Supabase → OpenAI API → Smart Predictions → Alerts & Routes
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 
 Flutter & Dart
 
