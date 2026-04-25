@@ -3,6 +3,7 @@
 
 An intelligent mobile application that leverages AI, OpenAI GPT models, and Firebase/Supabase to optimize urban traffic flow, enhance road safety, and promote eco-friendly mobility solutions.
 
+Individual contribution details are available in CONTRIBUTION.md
 ## 📌 Problem Statement
 
 Urban traffic congestion leads to:
